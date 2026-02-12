@@ -1,4 +1,4 @@
-# Java Lab Assignment 4 — File Handling & Collections
+# File Handling & Collections
 
 ## Files
 - data/students.txt (sample data)
